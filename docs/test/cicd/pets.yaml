@@ -3,7 +3,7 @@ servers:
   - url: //petstore.swagger.io/v2
     description: Default server
   - url: //petstore.swagger.io/sandbox
-    description: Sandbox server
+    description: Sandbox server 1
 info:
   description: |
     This is a sample server Petstore server.
